@@ -1,0 +1,97 @@
+<resources>
+    <string name="apps_name">Celebrity Check Challenge</string>
+    <string name="network_error">Network Error</string>
+
+    <string name="txt_game">Game</string>
+    <string name="txt_my_record">My Record</string>
+    <string name="app_wants_camera_access">“App” wants Camera access</string>
+    <string name="go_to_setting_enable_camera_access">Please go to Setting to enable Camera access</string>
+    <string name="app_wants_audio_access">“App” wants Audio access</string>
+    <string name="go_to_setting_enable_audio_access">Please go to Setting to enable Audio access</string>
+    <string name="go_to_setting">Go to Setting</string>
+    <string name="later">Later</string>
+    <string name="txt_play">Play</string>
+    <string name="quiz_tutorial_title">Quiz Challenge</string>
+    <string name="quiz_tutorial_title_des">Shake your head to right or left to select the correct answer.</string>
+    <string name="txt_save">Save</string>
+    <string name="title_exit_preview">Are you sure you want to exit without saving?</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_download">Download</string>
+    <string name="save_successfully">Save Successfully</string>
+    <string name="app_wants_storage_access">“App” wants Storage access</string>
+    <string name="go_to_setting_enable_storage_access">Unable to access Storage, failed to save record. Please go to Setting to enable Storage access</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="ok">OK</string>
+    <string name="txt_select">Select</string>
+    <string name="txt_no_files">No File Here! :(</string>
+    <string name="txt_delete_confirm">Delete %1s items?</string>
+    <string name="txt_play_this_game">Play This Game</string>
+    <string name="create_by">Created by</string>
+    <string name="txt_swipe">Swipe up to see more</string>
+    <string name="txt_trending">Trending</string>
+    <string name="txt_filter">Filter</string>
+    <string name="txt_sound">Sound</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_about">About</string>
+    <string name="text_rate_us_on_ch_play">Rate us on Play Store</string>
+    <string name="text_share_this_app">Share this App</string>
+    <string name="text_send_feedback">Send Feedback</string>
+    <string name="text_term_and_privacy">Term &amp; Privacy</string>
+    <string name="text_term">Term &amp; Conditions</string>
+    <string name="text_privacy_policy">Privacy Policy</string>
+    <string name="text_update_premium">Update Premium</string>
+    <string name="text_restore">Restore</string>
+    <string name="update_premium">Update Premium</string>
+    <string name="text_btn_cancel">Cancel</string>
+    <string name="text_btn_rate">Rate</string>
+    <string name="text_rate_5_star">Rate 5 Stars if you like this app. \n Thank you so much</string>
+    <string name="save_success">Save Successfully</string>
+    <string name="language">Language</string>
+    <string name="imageview">Imageview</string>
+    <string name="loading_dot">Loading…</string>
+    <string name="message_email" translatable="false">OS Version: %1s\nCountry: %2s\nApp Version: %3s\n
+        Please tell us your opinion:\n</string>
+    <string name="subject_feedback">[Capybara Android] Feedback</string>
+    <string name="welcome_to_quiz_filter_challenge_with_capybara">Welcome to Quiz Filter Challenge with Capybara!</string>
+    <string name="shake_left_or_right_to_choose_the_answer">Shake left or right to choose the answer !</string>
+    <string name="share_your_score_on_social_media_and_challenge_your_friends_now">Share your score on social media and challenge your friends now!</string>
+    <string name="next">Next</string>
+    <string name="text_setting">App Settings</string>
+    <string name="setting">Setting</string>
+    <string name="exit">Exit</string>
+    <string name="txt_confirm_exit_app">Do you want to exit this app?</string>
+    <string name="txt_no_internet">No Internet…\n Please reconnect and try again</string>
+
+    <string name="face" translatable="false">Face</string>
+    <string name="skin" translatable="false">Skin</string>
+    <string name="decor" translatable="false">Decor</string>
+    <string name="hat" translatable="false">Hat</string>
+    <string name="pod" translatable="false">Pod</string>
+
+    <string name="install">Install</string>
+    <string name="title_intro_1">Who’s Your Twin?</string>
+    <string name="title_intro_2">Fun Ways to Play!</string>
+    <string name="title_intro_3">Share the Spotlight!</string>
+
+
+    <string name="sub_title_intro_1">Discover the celebrity you lool like the most!</string>
+    <string name="sub_title_intro_2">Explore multiple modes to find your celeb match.</string>
+    <string name="sub_title_intro_3">Show off your celeb twin to your friends!</string>
+    <string name="my_top_3_celebrity_lookalikes">My Top 3 Celebrity Lookalikes</string>
+    <string name="who_is_your_celebrity_twin">Who is your celebrity twin ?</string>
+    <string name="my_celebrity_family">My Celebrity Family</string>
+    <string name="mom" translatable="false">Mom</string>
+    <string name="sib" translatable="false">Sib</string>
+    <string name="dad" translatable="false">Dad</string>
+    <string name="my_record">My Record</string>
+    <string name="try_more_game">Try More Game!</string>
+
+    // need localize
+    <string name="what_is_your_animal_twin">What is your animal twin ?</string>
+    <string name="merge_ai">Merge AI</string>
+    <string name="create">Create</string>
+    <string name="title_tab_all">All Filter</string>
+    <string name="app_name">App</string>
+</resources>

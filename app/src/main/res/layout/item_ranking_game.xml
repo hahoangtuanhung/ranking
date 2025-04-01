@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!--    <com.example.baseproject.helper.view.StrokedTextView-->
+    <!--        android:id="@+id/num_of_ranking_selected"-->
+    <!--        android:layout_width="45dp"-->
+    <!--        android:layout_height="45dp"-->
+    <!--        android:layout_marginTop="4dp"-->
+    <!--        android:layout_marginBottom="4dp"-->
+    <!--        android:fontFamily="@font/inter_bold"-->
+    <!--        android:gravity="center"-->
+    <!--        android:textColor="@color/white"-->
+    <!--        android:textSize="18sp"-->
+    <!--        app:layout_constraintBottom_toBottomOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:strokeColor="@color/black"-->
+    <!--        app:strokeThickness="3dp" />-->
+
+    <TextView
+        android:id="@+id/num_of_ranking_selected"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/inter_bold"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <ImageView
+        android:id="@+id/num_of_ranking"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:background="@drawable/background_num_ranking"
+        android:contentDescription="@string/imageview"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/num_of_ranking_selected"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    <com.example.baseproject.helper.view.StrokedTextView-->
+    <!--        android:id="@+id/tv_num_of_ranking"-->
+    <!--        android:layout_width="45dp"-->
+    <!--        android:layout_height="45dp"-->
+    <!--        android:layout_marginStart="4dp"-->
+    <!--        android:layout_marginTop="4dp"-->
+    <!--        android:layout_marginBottom="4dp"-->
+    <!--        android:background="@drawable/background_num_ranking"-->
+    <!--        android:fontFamily="@font/inter_bold"-->
+    <!--        android:textColor="@color/white"-->
+    <!--        android:textSize="18sp"-->
+    <!--        app:layout_constraintBottom_toBottomOf="parent"-->
+    <!--        app:layout_constraintStart_toEndOf="@id/num_of_ranking_selected"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:strokeColor="@color/black"-->
+    <!--        app:strokeThickness="3dp" />-->
+
+    <TextView
+        android:id="@+id/tv_num_of_ranking"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="@drawable/background_num_ranking"
+        android:fontFamily="@font/inter_bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:textSize="18sp"
+        app:layout_constraintTop_toTopOf="@id/num_of_ranking"
+        app:layout_constraintBottom_toBottomOf="@id/num_of_ranking"
+        app:layout_constraintStart_toStartOf="@id/num_of_ranking"
+        app:layout_constraintEnd_toEndOf="@id/num_of_ranking"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
