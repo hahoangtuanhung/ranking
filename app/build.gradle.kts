@@ -47,6 +47,11 @@ dependencies {
     // navigation
     implementation("androidx.navigation:navigation-fragment-ktx:2.7.7")
     implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
+    //cameraview
+    implementation("com.otaliastudios:cameraview:2.7.2")
+    // viewmodel provider
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1")
+    implementation ("com.google.mlkit:face-mesh-detection:16.0.0-beta3")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
